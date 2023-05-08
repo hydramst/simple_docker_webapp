@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  redis:
+    build: 
+      context: ./redis
+    ports:
+      - "6379:6379"
+
+  streamlit:
+    build: 
+      context: ./streamlit
+    ports:
+      - "8501:8501"

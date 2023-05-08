@@ -1,0 +1,5 @@
+streamlit
+datasets 
+evaluate 
+transformers[sentencepiece]
+redis

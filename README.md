@@ -2,6 +2,10 @@
 
 Aniemore is a Python library for working with text recognition and emotion recognition models. This repository contains a Streamlit app that demonstrates how to use the Aniemore library for emotion recognition.
 
+Main screen 
+
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/44744458/236799468-0f638d50-0415-41c4-a140-819baf062380.png">
+
 This web application containing 2 docker containers with DB (Redis) + Web (Streamlit) architecture.
 
 ## Prerequisites
@@ -41,9 +45,3 @@ If you prefer to run the app in a Docker container, you can use Docker Compose t
 ## License
 
 Aniemore is released under the [MIT License](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/LICENSE).
-
-
-
-
-Main screen 
-<img width="545" alt="image" src="https://user-images.githubusercontent.com/44744458/236799468-0f638d50-0415-41c4-a140-819baf062380.png">
